@@ -1,0 +1,36 @@
+
+ .nav a{
+     float: left;
+     color: white;
+     text-align: center;
+     padding: 30px 16px;
+     text-decoration: none;
+     font-size: 17px;
+}
+.nav{
+
+    overflow: hidden;
+    background-color: #333;
+}
+.nav a:hover{
+    background-color: green;
+    cursor:pointer;
+    color:white;
+}
+
+.nav span {
+    font-size: 40px;
+    padding: 20px 350px 0px 50px;
+    color:white;
+    float: left;
+}
+
+.image{
+    width:400px;
+    text-align:center;
+    display:block;
+    padding-top:15px;
+    float: left;
+  }
+  
+
